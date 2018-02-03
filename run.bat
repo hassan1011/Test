@@ -1,0 +1,1 @@
+java.exe -cp bin;lib/* org.testng.TestNG testng.xml
