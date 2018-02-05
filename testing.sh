@@ -1,1 +1,1 @@
-java.exe -cp org.testng.TestNG testng.xml
+java -cp org.testng.TestNG testng.xml
