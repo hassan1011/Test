@@ -1,2 +1,2 @@
 #!/bin/bash
-java -cp org.testng.TestNG testng.xml
+java -cp org.testng.TestNG ./scripts/testng.xml
